@@ -3,9 +3,10 @@
 ## Cách sử dụng hằng ngày
 
 1. **Đưa số liệu vào đúng thư mục** (trên GitHub: mở thư mục → `Add file` → `Upload files` → kéo thả file → bấm `Commit changes`):
-   - Số liệu thực hiện → `01_KHOI_LUONG_MO/`
-   - Số liệu kế hoạch → `02_KE_HOACH/`
-   - Báo cáo mẫu đã gửi → `03_BAO_CAO/`
+   - Kho có 8 thư mục, khớp với 8 dự án trên claude.ai (`1_BAO_CAO_CAC_LOAI` … `8_TH_NGHIEM_THU_VT_DM`).
+   - Số liệu thực hiện → `3_TONG_HOP_KLM/`
+   - Số liệu kế hoạch → `2_LAP_KE_HOACH_TKV/`
+   - Tài liệu của dự án nào thì đưa vào thư mục của dự án đó.
 2. **Mở Claude Code** tại claude.ai/code, chọn kho `CONG_VIEC`.
 3. **Giao việc**, ví dụ:
    - "Lập báo cáo tháng 10/2026 từ file khối lượng mỏ, so sánh với kế hoạch."
