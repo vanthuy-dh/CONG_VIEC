@@ -52,7 +52,7 @@ Mọi quy tắc dưới đây là bắt buộc.
 | `5_PHUONG_AN_KY_THUAT_1051/` | 5. PHƯƠNG ÁN KỸ THUẬT 1051 | Hồ sơ phương án kỹ thuật 1051 |
 | `6_THEO_DOI_CV_GIAO_VIEC_LD_GIAO/` | 6. THEO DÕI CV, GIAO VIỆC LĐ GIAO | Theo dõi công việc lãnh đạo giao |
 | `7_QUAN_LY_GIAO_VIEC/` | 7. QUẢN LÝ, GIAO VIỆC | Quản lý nhân viên, giao việc |
-| `8_TH_NGHIEM_THU_VT_DM/` | 8. TH NGHIỆM THU, VT, ĐM | (chờ bổ sung mô tả) |
+| `8_TH_NGHIEM_THU_VT_DM/` | 8. TH NGHIỆM THU, VT, ĐM | Tổng hợp nghiệm thu, định mức, vật tư |
 | `99_KET_QUA/` | — | File Claude tạo ra |
 
 Mỗi thư mục có file `README.md` mô tả nội dung; đọc file đó trước khi làm việc với thư mục.
