@@ -1,0 +1,11 @@
+# File tạm của Office / AutoCAD
+~$*
+*.tmp
+*.bak
+*.dwl
+*.dwl2
+*.sv$
+# Hệ điều hành
+.DS_Store
+Thumbs.db
+desktop.ini
